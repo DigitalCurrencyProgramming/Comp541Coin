@@ -1,3 +1,3 @@
-Comp541Coin (FOO)
+Comp541Coin (CDC)
 
-Blah, blah, blah.
+The fastes and most efficient (in the future) coins!
